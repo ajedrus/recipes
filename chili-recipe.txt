@@ -1,3 +1,3 @@
-cayenne
+cayennes
 
 step 2 add cayenne
